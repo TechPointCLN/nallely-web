@@ -47,7 +47,7 @@ a la tienda en un par de toques.
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/EdgarLeonArchuleta19/nallely-web.git
+git clone https://github.com/TechPointCLN/nallely-web.git
 cd nallely-web
 
 # 2. Instalar dependencias
